@@ -1,6 +1,6 @@
 # Interceptors
 
-This repo explains how to exclude single service from getting intercepted. It makes use of HttpBackend module of Angular.
+This repo explains how to exclude single service from getting intercepted. It makes use of HttpBackend class of Angular.
 
 Interceptors sit between the HttpClient interface and the HttpBackend.
 
