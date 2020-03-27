@@ -4,6 +4,9 @@ This repo explains how to exclude single service from getting intercepted. It ma
 
 Interceptors sit between the HttpClient interface and the HttpBackend.
 
-When injected, HttpBackend dispatches requests directly to the backend, without going through the interceptor chain. (Taken from Angular.io official documentation)
+When injected, HttpBackend dispatches requests directly to the backend, without going through the interceptor chain. (Taken from Angular.io official documentation) 
+
+Reference - 
+https://angular.io/api/common/http/HttpBackend
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-q6xasx)
